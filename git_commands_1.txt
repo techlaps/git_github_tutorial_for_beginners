@@ -1,2 +1,11 @@
 git clone https://github.com/techlaps/git_github_tutorial_for_beginners.git
 
+git status
+
+git add git_commands_1.txt
+
+git commit -m "my first commit"
+
+git branch -M main
+
+git push -u origin main
